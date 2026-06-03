@@ -1,0 +1,6 @@
+{
+  "name": "Gecko",
+  "description": "Incident triage platform using Gecko Triage Engine for automated log analysis and codebase fixes",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
